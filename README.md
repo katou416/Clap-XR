@@ -1,2 +1,4 @@
 # clap-XR
-clapclapclapclap
+
+Clap XR is a VR multiplayer local interactive music game that allowsparticipants to experience real-world blow feedback by high-fiveingeach other in the virtual world, HTC Vive's gesture tracking andfixed-point recognition technology allows VR audio games to beintegrated from a lonely single-player game into an offline partygame.
+Through the visual guidance of the virtual scene, the player wiltouch each other without vision, and in this way, the game willbe promoted. Together with the music, Clap XR will encourageplayers to increase physica contact and experience the atmosphereof the game through embodied feelings, expanding the interactionpossibilities of VR games.
